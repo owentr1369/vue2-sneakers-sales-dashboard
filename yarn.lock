@@ -974,6 +974,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fortawesome/fontawesome-free@^6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-6.1.1.tgz#bf5d45611ab74890be386712a0e5d998c65ee2a1"
+  integrity sha512-J/3yg2AIXc9wznaVqpHVX3Wa5jwKovVF0AMYSnbmcXTiL3PpRPfF58pzWucCwEiCJBp+hCNRLWClTomD8SseKg==
+
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.npmmirror.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
@@ -3964,6 +3969,11 @@ make-dir@^3.0.2, make-dir@^3.1.0:
   integrity sha512-g3FeP20LNwhALb/6Cz6Dd4F2ngze0jz7tbzrD2wAV+o9FeNHe4rL+yK2md0J/fiSf1sa1ADhXqi5+oVwOM/eGw==
   dependencies:
     semver "^6.0.0"
+
+material-design-icons-iconfont@^6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/material-design-icons-iconfont/-/material-design-icons-iconfont-6.7.0.tgz#55cf0f3d7e4c76e032855b7e810b6e30535eff3c"
+  integrity sha512-lSj71DgVv20kO0kGbs42icDzbRot61gEDBLQACzkUuznRQBUYmbxzEkGU6dNBb5fRWHMaScYlAXX96HQ4/cJWA==
 
 mdn-data@2.0.14:
   version "2.0.14"
